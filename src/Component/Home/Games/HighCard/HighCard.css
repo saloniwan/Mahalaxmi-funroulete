@@ -1,0 +1,750 @@
+/* @media screen and (max-width: 370px) {
+  .highcardheight{
+    height:1.6rem;
+  }
+} */
+@media screen and (min-width: 350px) {
+  #playercard {
+    width: 5rem;
+    height: 10rem;
+  }
+  .cardbox2 {
+    width: 5rem;
+    height: 10rem;
+  }
+  .card1 {
+    width: 1.2rem;
+    height: 1.6rem;
+    margin-left: 1.4rem;
+    margin-top: 9rem;
+  }
+  .card2 {
+    width: 1.2rem;
+    height: 1.6rem;
+    margin-left: 1.4rem;
+    margin-top: 0.2rem;
+  }
+  .card3 {
+    width: 1.2rem;
+    height: 2rem;
+    margin-left: 1.4rem;
+    margin-top: 0.2rem;
+  }
+  .card4 {
+    width: 1.2rem;
+    height: 2rem;
+    margin-left: 2.1rem;
+    margin-top: 6.7rem;
+  }
+  .card5 {
+    width: 1.2rem;
+    height: 2rem;
+    margin-left: 2.1rem;
+    margin-top: 0.1rem;
+  }
+  .card6 {
+    width: 1.2rem;
+    height: 2rem;
+    margin-left: 2.1rem;
+    margin-top: 0.1rem;
+  }
+}
+@media screen and (min-width: 365px) {
+  #playercard {
+    width: 5rem;
+    height: 10rem;
+  }
+  .cardbox2 {
+    width: 5rem;
+    height: 10rem;
+  }
+  .card1 {
+    width: 1.23rem;
+    height: 1.7rem;
+    margin-left: 1.1rem;
+    margin-top: 9rem;
+  }
+  .card2 {
+    width: 1.23rem;
+    height: 1.7rem;
+    margin-left: 1.1rem;
+    margin-top: 0.2rem;
+  }
+  .card3 {
+    width: 1.23rem;
+    height: 1.7rem;
+    margin-left: 1.1rem;
+    margin-top: 0.2rem;
+  }
+  .card4 {
+    width: 1.23rem;
+    height: 1.7rem;
+    margin-left: 2.3rem;
+    margin-top: 6.8rem;
+  }
+  .card5 {
+    width: 1.23rem;
+    height: 1.7rem;
+    margin-left: 2.3rem;
+    margin-top: 0.2rem;
+  }
+  .card6 {
+    width: 1.23rem;
+    height: 1.7rem;
+    margin-left: 2.3rem;
+    margin-top: 0.2rem;
+  }
+}
+@media screen and (min-width: 385px) {
+  #playercard {
+    width: 5rem;
+    height: 10rem;
+  }
+  .cardbox2 {
+    width: 5rem;
+    height: 10rem;
+  }
+  .card1 {
+    width: 1.3rem;
+    height: 1.7rem;
+    margin-left: 1.1rem;
+    margin-top: 9.4rem;
+  }
+  .card2 {
+    width: 1.3rem;
+    height: 1.7rem;
+    margin-left: 1.1rem;
+    margin-top: 0.3rem;
+  }
+  .card3 {
+    width: 1.3rem;
+    height: 1.7rem;
+    margin-left: 1.1rem;
+    margin-top: 0.3rem;
+  }
+  .card4 {
+    width: 1.3rem;
+    height: 1.7rem;
+    margin-left: 2.3rem;
+    margin-top: 6.9rem;
+  }
+  .card5 {
+    width: 1.3rem;
+    height: 1.7rem;
+    margin-left: 2.3rem;
+    margin-top: 0.2rem;
+  }
+  .card6 {
+    width: 1.3rem;
+    height: 1.7rem;
+    margin-left: 2.3rem;
+    margin-top: 0.2rem;
+  }
+}
+@media screen and (min-width: 400px) {
+  #playercard {
+    width: 5rem;
+    height: 10rem;
+  }
+  .cardbox2 {
+    width: 5rem;
+    height: 10rem;
+  }
+  .card1 {
+    width: 1.3rem;
+    height: 1.7rem;
+    margin-left: 0.92rem;
+    margin-top: 9.7rem;
+  }
+  .card2 {
+    width: 1.3rem;
+    height: 1.7rem;
+    margin-left: 0.92rem;
+    margin-top: 0.3rem;
+  }
+  .card3 {
+    width: 1.3rem;
+    height: 1.7rem;
+    margin-left: 0.92rem;
+    margin-top: 0.4rem;
+  }
+  .card4 {
+    width: 1.3rem;
+    height: 1.7rem;
+    margin-left: 2.55rem;
+    margin-top: 7rem;
+  }
+  .card5 {
+    width: 1.3rem;
+    height: 1.7rem;
+    margin-left: 2.55rem;
+    margin-top: 0.4rem;
+  }
+  .card6 {
+    width: 1.3rem;
+    height: 1.7rem;
+    margin-left: 2.55rem;
+    margin-top: 0.3rem;
+  }
+}
+@media screen and (min-width: 415px) {
+  #playercard {
+    width: 5rem;
+    height: 10rem;
+  }
+  .cardbox2 {
+    width: 5rem;
+    height: 10rem;
+  }
+  .card1 {
+    width: 1.5rem;
+    height: 1.9rem;
+    margin-left: 0.75rem;
+    margin-top: 10.2rem;
+  }
+  .card2 {
+    width: 1.5rem;
+    height: 1.9rem;
+    margin-left: 0.75rem;
+    margin-top: 0.3rem;
+  }
+  .card3 {
+    width: 1.5rem;
+    height: 1.9rem;
+    margin-left: 0.75rem;
+    margin-top: 0.3rem;
+  }
+  .card4 {
+    width: 1.5rem;
+    height: 1.9rem;
+    margin-left: 2.45rem;
+    margin-top: 6.85rem;
+  }
+  .card5 {
+    width: 1.5rem;
+    height: 1.9rem;
+    margin-left: 2.45rem;
+    margin-top: 0.3rem;
+  }
+  .card6 {
+    width: 1.5rem;
+    height: 1.9rem;
+    margin-left: 2.45rem;
+    margin-top: 0.3rem;
+  }
+}
+@media screen and (min-width: 430px) {
+  #playercard {
+    width: 5rem;
+    height: 10rem;
+  }
+  .cardbox2 {
+    width: 5rem;
+    height: 10rem;
+  }
+  .card1 {
+    width: 1.6rem;
+    height: 1.7rem;
+    margin-left: 0.55rem;
+    margin-top: 10rem;
+  }
+  .card2 {
+    width: 1.6rem;
+    height: 1.7rem;
+    margin-left: 0.55rem;
+    margin-top: 0.6rem;
+  }
+  .card3 {
+    width: 1.6rem;
+    height: 1.7rem;
+    margin-left: 0.55rem;
+    margin-top: 0.6rem;
+  }
+  .card4 {
+    width: 1.6rem;
+    height: 1.7rem;
+    margin-left: 2.55rem;
+    margin-top: 6.8rem;
+  }
+  .card5 {
+    width: 1.6rem;
+    height: 1.7rem;
+    margin-left: 2.55rem;
+    margin-top: 0.6rem;
+  }
+  .card6 {
+    width: 1.6rem;
+    height: 1.7rem;
+    margin-left: 2.55rem;
+    margin-top: 0.6rem;
+  }
+}
+@media screen and (min-width: 445px) {
+  #playercard {
+    width: 5rem;
+    height: 10rem;
+  }
+  .cardbox2 {
+    width: 5rem;
+    height: 10rem;
+  }
+  .card1 {
+    width: 1.6rem;
+    height: 1.9rem;
+    margin-left: 0.42rem;
+    margin-top: 10.6rem;
+  }
+  .card2 {
+    width: 1.6rem;
+    height: 1.9rem;
+    margin-left: 0.42rem;
+    margin-top: 0.5rem;
+  }
+  .card3 {
+    width: 1.6rem;
+    height: 1.9rem;
+    margin-left: 0.42rem;
+    margin-top: 0.5rem;
+  }
+  .card4 {
+    width: 1.6rem;
+    height: 1.9rem;
+    margin-left: 2.65rem;
+    margin-top: 7rem;
+  }
+  .card5 {
+    width: 1.6rem;
+    height: 1.9rem;
+    margin-left: 2.65rem;
+    margin-top: 0.45rem;
+  }
+  .card6 {
+    width: 1.6rem;
+    height: 1.9rem;
+    margin-left: 2.65rem;
+    margin-top: 0.5rem;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  #playercard {
+    width: 5rem;
+    height: 10rem;
+  }
+  .cardbox2 {
+    width: 1.5rem;
+    height: 10rem;
+  }
+  .card1 {
+    width: 1.7rem;
+    height: 2rem;
+    margin-left: -2.4rem;
+    margin-top: 11.1rem;
+  }
+  .card2 {
+    width: 1.7rem;
+    height: 2rem;
+    margin-left: -2.4rem;
+    margin-top: 0.4rem;
+  }
+  .card3 {
+    width: 1.7rem;
+    height: 2rem;
+    margin-left: -2.4rem;
+    margin-top: 0.4rem;
+  }
+  .card4 {
+    width: 1.7rem;
+    height: 2rem;
+    margin-left: 2rem;
+    margin-top: 7.1rem;
+  }
+  .card5 {
+    width: 1.7rem;
+    height: 2rem;
+    margin-left: 2rem;
+    margin-top: 0.45rem;
+  }
+  .card6 {
+    width: 1.7rem;
+    height: 2rem;
+    margin-left: 2rem;
+    margin-top: 0.45rem;
+  }
+}
+@media screen and (min-width: 1070px) {
+  #playercard {
+    width: 5rem;
+    height: 10rem;
+  }
+  .cardbox2 {
+    width: 1.5rem;
+    height: 10rem;
+  }
+  .card1 {
+    width: 1.8rem;
+    height: 0.1rem;
+    margin-left: -2.7rem;
+    margin-top: 10rem;
+  }
+  .card2 {
+    width: 1.8rem;
+    height: 0.1rem;
+    margin-left: -2.7rem;
+    margin-top: 2.5rem;
+  }
+  .card3 {
+    width: 1.8rem;
+    height: 0.1rem;
+    margin-left: -2.7rem;
+    margin-top: 2.5rem;
+  }
+  .card4 {
+    width: 1.8rem;
+    height: 2rem;
+    margin-left: 2.1rem;
+    margin-top: 7.3rem;
+  }
+  .card5 {
+    width: 1.8rem;
+    height: 2rem;
+    margin-left: 2.1rem;
+    margin-top: 0.6rem;
+  }
+  .card6 {
+    width: 1.8rem;
+    height: 2 rem;
+    margin-left: 2.1rem;
+    margin-top: 0.6rem;
+  }
+}
+@media screen and (min-width: 1124px) {
+  #playercard {
+    width: 5rem;
+    height: 10rem;
+  }
+  .cardbox2 {
+    width: 1.5rem;
+    height: 10rem;
+  }
+  .card1 {
+    width: 1.8rem;
+    height: 2rem;
+    margin-left: -2.85rem;
+    margin-top: 12.2rem;
+  }
+  .card2 {
+    width: 1.8rem;
+    height: 2rem;
+    margin-left: -2.85rem;
+    margin-top: 0.7rem;
+  }
+  .card3 {
+    width: 1.8rem;
+    height: 2rem;
+    margin-left: -2.85rem;
+    margin-top: 0.8rem;
+  }
+
+  .card4 {
+    width: 1.8rem;
+    height: 2rem;
+    margin-left: 2.2rem;
+    margin-top: 7.4rem;
+  }
+
+  .card5 {
+    width: 1.8rem;
+    height: 2rem;
+    margin-left: 2.2rem;
+    margin-top: 0.7rem;
+  }
+  .card6 {
+    width: 1.8rem;
+    height: 2rem;
+    margin-left: 2.2rem;
+    margin-top: 0.6rem;
+  }
+}
+
+@media screen and (min-width: 1170px) {
+  #playercard {
+    width: 5rem;
+    height: 10rem;
+  }
+  .cardbox2 {
+    width: 1.5rem;
+    height: 10rem;
+  }
+  .card1 {
+    width: 2rem;
+    height: 2.2rem;
+    margin-left: -3rem;
+    margin-top: 12.5rem;
+  }
+  .card2 {
+    width: 2rem;
+    height: 2.2rem;
+    margin-left: -3rem;
+    margin-top: 0.8rem;
+  }
+  .card3 {
+    width: 2rem;
+    height: 2.2rem;
+    margin-left: -3rem;
+    margin-top: 0.87rem;
+  }
+  .card4 {
+    width: 2rem;
+    height: 2.2rem;
+    margin-left: 2.1rem;
+    margin-top: 7.1rem;
+  }
+  .card5 {
+    width: 2rem;
+    height: 2.2rem;
+    margin-left: 2.1rem;
+    margin-top: 0.8rem;
+  }
+  .card6 {
+    width: 2rem;
+    height: 2.2rem;
+    margin-left: 2.1rem;
+    margin-top: 0.8rem;
+  }
+}
+
+@media screen and (min-width: 1224px) {
+  #playercard {
+    width: 5rem;
+    height: 10rem;
+  }
+  .cardbox2 {
+    width: 1.5rem;
+    height: 10rem;
+  }
+  .card1 {
+    width: 2rem;
+    height: 2.1rem;
+    margin-left: -3.2rem;
+    margin-top: 13.5rem;
+  }
+  .card2 {
+    width: 2rem;
+    height: 2.1rem;
+    margin-left: -3.2rem;
+    margin-top: 0.8rem;
+  }
+  .card3 {
+    width: 2rem;
+    height: 2.1rem;
+    margin-left: -3.2rem;
+    margin-top: 0.8rem;
+  }
+  .card4 {
+    width: 2rem;
+    height: 2.1rem;
+    margin-left: 2.2rem;
+    margin-top: 7.7rem;
+  }
+  .card5 {
+    width: 2rem;
+    height: 2.1rem;
+    margin-left: 2.2rem;
+    margin-top: 0.8rem;
+  }
+  .card6 {
+    width: 2rem;
+    height: 2.1rem;
+    margin-left: 2.2rem;
+    margin-top: 0.8rem;
+  }
+}
+
+@media screen and (min-width: 1285px) {
+  #playercard {
+    width: 5rem;
+    height: 8rem;
+  }
+  .cardbox2 {
+    width: 1.5rem;
+    height: 7rem;
+  }
+  .card1 {
+    width: 2.2rem;
+    height: 1.3rem;
+    margin-left: -3.4rem;
+    margin-top: 13.5rem;
+  }
+  .card2 {
+    width: 2.2rem;
+    height: 1.3rem;
+    margin-left: -3.4rem;
+    margin-top: 1.9rem;
+  }
+  .card3 {
+    width: 2.2rem;
+    height: 1.3rem;
+    margin-left: -3.4rem;
+    margin-top: 1.9rem;
+  }
+  .card4 {
+    width: 2.2rem;
+    height: 1.3rem;
+    margin-left: 2.3rem;
+    margin-top: 6.4rem;
+  }
+  .card5 {
+    width: 2.2rem;
+    height: 1.3rem;
+    margin-left: 2.3rem;
+    margin-top: 1.9rem;
+  }
+  .card6 {
+    width: 2.2rem;
+    height: 1.3rem;
+    margin-left: 2.3rem;
+    margin-top: 1.9rem;
+  }
+}
+
+@media screen and (min-width: 1340px) {
+  #playercard {
+    background-color: red;
+    width: 5rem;
+    height: 6rem;
+  }
+  .cardbox2 {
+    width: 1.9rem;
+    height: 6rem;
+  }
+  .card1 {
+    width: 2.7rem;
+    height: 0.6rem;
+    margin-left: -3.4rem;
+    margin-top: 12.5rem;
+  }
+  .card2 {
+    width: 2.7rem;
+    height: 0.6rem;
+    margin-left: -3.4rem;
+    margin-top: 2.5rem;
+  }
+  .card3 {
+    width: 2.7rem;
+    height: 0.6rem;
+    margin-left: -3.4rem;
+    margin-top: 2.4rem;
+  }
+  .card4 {
+    width: 2.7rem;
+    height: 0.6rem;
+    margin-left: 2.3rem;
+    margin-top: 5.9rem;
+  }
+  .card5 {
+    width: 2.7rem;
+    height: 0.6rem;
+    margin-left: 2.3rem;
+    margin-top: 2.5rem;
+  }
+  .card6 {
+    width: 2.7rem;
+    height: 0.6rem;
+    margin-left: 2.3rem;
+    margin-top: 2.5rem;
+  }
+}
+
+@media screen and (min-width: 1370px) {
+  #playercard {
+    width: 5rem;
+    height: 8rem;
+  }
+  .cardbox2 {
+    width: 1.5rem;
+    height: 7rem;
+  }
+  .card1 {
+    width: 2.7rem;
+    height: 1.3rem;
+    margin-left: -3.4rem;
+    margin-top: 13.5rem;
+  }
+  .card2 {
+    width: 2.5rem;
+    height: 1.3rem;
+    margin-left: -3.4rem;
+    margin-top: 1.9rem;
+  }
+  .card3 {
+    width: 2.5rem;
+    height: 1.3rem;
+    margin-left: -3.4rem;
+    margin-top: 1.9rem;
+  }
+  .card4 {
+    width: 2.5rem;
+    height: 1.3rem;
+    margin-left: 2.3rem;
+    margin-top: 6.4rem;
+  }
+  .card5 {
+    width: 2.5rem;
+    height: 1.3rem;
+    margin-left: 2.3rem;
+    margin-top: 1.9rem;
+  }
+  .card6 {
+    width: 2.5rem;
+    height: 1.3rem;
+    margin-left: 2.3rem;
+    margin-top: 1.9rem;
+  }
+}
+@media screen and (min-width: 1440px) {
+  #playercard {
+    width: 5rem;
+    height: 10rem;
+  }
+  .cardbox2 {
+    width: 5rem;
+    height: 10rem;
+  }
+  .card1 {
+    width: 2.5rem;
+    height: 2.3rem;
+    margin-left: -2.4rem;
+    margin-top: 16.2rem;
+  }
+  .card2 {
+    width: 2.5rem;
+    height: 2.3rem;
+    margin-left: -2.4rem;
+    margin-top: 1.3rem;
+  }
+  .card3 {
+    width: 2.5rem;
+    height: 2.3rem;
+    margin-left: -2.4rem;
+    margin-top: 1.3rem;
+  }
+  .card4 {
+    width: 2.5rem;
+    height: 2.3rem;
+    margin-left: 4.3rem;
+    margin-top: 8.4rem;
+  }
+  .card5 {
+    width: 2.5rem;
+    height: 2.3rem;
+    margin-left: 4.3rem;
+    margin-top: 1.3rem;
+  }
+  .card6 {
+    width: 2.5rem;
+    height: 2.3rem;
+    margin-left: 4.3rem;
+    margin-top: 1.3rem;
+  }
+}

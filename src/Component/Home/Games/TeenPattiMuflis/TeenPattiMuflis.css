@@ -1,0 +1,5446 @@
+@media only screen and (min-width: 350px) and (max-width: 360px) {
+  .teenpattimuflismainbox {
+    width: 104%;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 0rem;
+    margin-top: -1.2rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard1 {
+    width: 1.5rem;
+    height: 1.9rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.3rem;
+    margin-top: -1.2rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard2 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -1.2rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard3 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -0.2rem;
+    margin-top: 0.5rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard4 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.5rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard5 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.5rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard6 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+}
+@media only screen and (min-width: 360px) and (max-width: 366px) {
+  .teenpattimuflismainbox {
+    width: 102%;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 0rem;
+    margin-top: -1.2rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard1 {
+    width: 1.5rem;
+    height: 1.9rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.3rem;
+    margin-top: -1.2rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard2 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -1.2rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard3 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -0.2rem;
+    margin-top: 0.5rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard4 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.5rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard5 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.5rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard6 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+}
+@media only screen and (min-width: 366px) and (max-width: 377px) {
+  .teenpattimuflismainbox {
+    width: 108%;
+  }
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 0rem;
+    margin-top: -1rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard1 {
+    width: 1.5rem;
+    height: 1.9rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.3rem;
+    margin-top: -1rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard2 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -1rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard3 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -0.2rem;
+    margin-top: 0.5rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard4 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.5rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard5 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.5rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard6 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+}
+@media only screen and (min-width: 377px) and (max-width: 387px) {
+  .teenpattimuflismainbox {
+    width: 108%;
+  }
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 0rem;
+    margin-top: -0.5rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard1 {
+    width: 1.5rem;
+    height: 1.9rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.3rem;
+    margin-top: -0.5rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard2 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -0.5rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard3 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: 0.3rem;
+    margin-top: 0.5rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard4 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.5rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard5 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.5rem;
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+  .muflisplayercard6 {
+    width: 1.5rem;
+    height: 1.9rem;
+  }
+}
+
+/* kaustubh mobile  */
+@media only screen and (min-width: 387px) and (max-width: 400px) {
+  .teenpattimuflismainbox {
+    width: 114%;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: -0.4rem;
+    margin-top: -0.5rem;
+    width: 1.5rem;
+    height: 2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.5rem;
+    height: 2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.2rem;
+    margin-top: -0.5rem;
+    width: 1.5rem;
+    height: 2rem;
+  }
+  .muflisplayercard2 {
+    width: 1.5rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    margin-top: -0.5rem;
+    width: 1.5rem;
+    height: 2rem;
+  }
+  .muflisplayercard3 {
+    width: 1.5rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: 0.3rem;
+    margin-top: 0.4rem;
+    width: 1.5rem;
+    height: 2rem;
+  }
+  .muflisplayercard4 {
+    width: 1.5rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.4rem;
+    width: 1.5rem;
+    height: 2rem;
+  }
+  .muflisplayercard5 {
+    width: 1.5rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.4rem;
+    width: 1.5rem;
+    height: 2rem;
+  }
+  .muflisplayercard6 {
+    width: 1.5rem;
+    height: 2rem;
+  }
+}
+@media only screen and (min-width: 400px) and (max-width: 415px) {
+  .teenpattimuflismainbox {
+    width: 117%;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: -0.7rem;
+    margin-top: -0.1rem;
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.6rem;
+    height: 2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.2rem;
+    margin-top: -0.1rem;
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercard2 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.1rem;
+    margin-top: -0.1rem;
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercard3 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: 0.5rem;
+    margin-top: 0.4rem;
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercard4 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.1rem;
+    margin-top: 0.4rem;
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercard5 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.1rem;
+    margin-top: 0.4rem;
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercard6 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+}
+@media only screen and (min-width: 415px) and (max-width: 420px) {
+  .teenpattimuflismainbox {
+    width: 118%;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: -1rem;
+    margin-top: 0.1rem;
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.6rem;
+    height: 2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.1rem;
+    margin-top: 0.1rem;
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercard2 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.1rem;
+    margin-top: 0.1rem;
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercard3 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: 0.7rem;
+    margin-top: 0.5rem;
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercard4 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.1rem;
+    margin-top: 0.5rem;
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercard5 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.1rem;
+    margin-top: 0.5rem;
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercard6 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+}
+@media only screen and (min-width: 420px) and (max-width: 426px) {
+  .teenpattimuflismainbox {
+    width: 118%;
+  }
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: -1rem;
+    margin-top: 0.6rem;
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.6rem;
+    height: 2.2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.1rem;
+    margin-top: 0.6rem;
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercard2 {
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.1rem;
+    margin-top: 0.6rem;
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercard3 {
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: 0.9rem;
+    margin-top: 0.2rem;
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercard4 {
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    margin-top: 0.2rem;
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercard5 {
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: 0rem;
+    margin-top: 0.2rem;
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercard6 {
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+}
+
+@media only screen and (min-width: 426px) and (max-width: 438px) {
+  .teenpattimuflismainbox {
+    width: 120%;
+  }
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: -1.3rem;
+    margin-top: 0.6rem;
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.6rem;
+    height: 2.2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    margin-top: 0.6rem;
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercard2 {
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    margin-top: 0.6rem;
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercard3 {
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: 1rem;
+    margin-top: 0.2rem;
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercard4 {
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    margin-top: 0.2rem;
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercard5 {
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: 0rem;
+    margin-top: 0.2rem;
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+  .muflisplayercard6 {
+    width: 1.6rem;
+    height: 2.2rem;
+  }
+}
+
+@media only screen and (min-width: 438px) and (max-width: 444px) {
+  .teenpattimuflismainbox {
+    width: 120%;
+  }
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: -1.3rem;
+    margin-top: 0.6rem;
+    width: 1.7rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard1 {
+    width: 1.7rem;
+    height: 2.3rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    margin-top: 0.6rem;
+    width: 1.7rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard2 {
+    width: 1.7rem;
+    height: 2.3rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    margin-top: 0.6rem;
+    width: 1.7rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard3 {
+    width: 1.7rem;
+    height: 2.3rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: 1.3rem;
+    margin-top: 0.2rem;
+    width: 1.7rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard4 {
+    width: 1.7rem;
+    height: 2.3rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    margin-top: 0.2rem;
+    width: 1.7rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard5 {
+    width: 1.7rem;
+    height: 2.3rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: 0rem;
+    margin-top: 0.2rem;
+    width: 1.7rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard6 {
+    width: 1.7rem;
+    height: 2.3rem;
+  }
+}
+
+@media only screen and (min-width: 444px) and (max-width: 450px) {
+  .teenpattimuflismainbox {
+    width: 120%;
+  }
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: -1.3rem;
+    margin-top: 0.8rem;
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard1 {
+    width: 1.8rem;
+    height: 2.3rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    margin-top: 0.8rem;
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard2 {
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.1rem;
+    margin-top: 0.8rem;
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard3 {
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: 1.3rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard4 {
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard5 {
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: 0rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard6 {
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+}
+
+@media only screen and (min-width: 450px) and (max-width: 1000px) {
+  .teenpattimuflismainbox {
+    width: 120%;
+  }
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: -1.3rem;
+    margin-top: 0.8rem;
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard1 {
+    width: 1.8rem;
+    height: 2.3rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    margin-top: 0.8rem;
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard2 {
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.1rem;
+    margin-top: 0.8rem;
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard3 {
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: 1.3rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard4 {
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard5 {
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: 0rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+  .muflisplayercard6 {
+    width: 1.8rem;
+    height: 2.3rem;
+  }
+}
+
+@media only screen and (min-width: 1000px) and (max-width: 1012px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 0.6rem;
+    margin-left: -0.4rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 0.3rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard1 {
+    width: 1.5rem;
+    height: 1.8rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard3 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+}
+
+@media only screen and (min-width: 1012px) and (max-width: 1020px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 0.6rem;
+    margin-left: -0.4rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 0.3rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard1 {
+    width: 1.5rem;
+    height: 1.8rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard3 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+}
+
+@media only screen and (min-width: 1020px) and (max-width: 1030px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 0.6rem;
+    margin-left: -0.4rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 0.4rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard1 {
+    width: 1.5rem;
+    height: 1.8rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard3 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+}
+
+@media only screen and (min-width: 1030px) and (max-width: 1040px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 1rem;
+    margin-left: -0.8rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 0.8rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard1 {
+    width: 1.5rem;
+    height: 1.8rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard3 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+}
+@media only screen and (min-width: 1040px) and (max-width: 1050px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 1.3rem;
+    margin-left: -1rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 1.2rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard1 {
+    width: 1.5rem;
+    height: 1.8rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard3 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.1rem;
+    margin-top: 0.1rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 1.5rem;
+    height: 1.8rem;
+  }
+}
+@media only screen and (min-width: 1050px) and (max-width: 1060px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 1.3rem;
+    margin-left: -1rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 1.2rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.6rem;
+    height: 2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.6rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.6rem;
+    height: rem;
+  }
+  .muflisplayercard3 {
+    width: 1.6rem;
+    height:2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 1.6rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.6rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.6rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+}
+
+@media only screen and (min-width: 1060px) and (max-width: 1075px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 1.3rem;
+    margin-left: -1.5rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 1.6rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.6rem;
+    height: 2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.6rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.6rem;
+    height: rem;
+  }
+  .muflisplayercard3 {
+    width: 1.6rem;
+    height:2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 1.6rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.6rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.6rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 1.6rem;
+    height: 2rem;
+  }
+}
+
+@media only screen and (min-width: 1075px) and (max-width: 1085px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 1.6rem;
+    margin-left: -1.7rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 1.6rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.7rem;
+    height: 2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.7rem;
+    height: 2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.7rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.7rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.7rem;
+    height: rem;
+  }
+  .muflisplayercard3 {
+    width: 1.7rem;
+    height:2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 1.7rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 1.7rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.7rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.7rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.7rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 1.7rem;
+    height: 2rem;
+  }
+}
+
+
+@media only screen and (min-width: 1085px) and (max-width: 1100px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 2.1rem;
+    margin-left: -2rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 2.1rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.7rem;
+    height: 2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.7rem;
+    height: 2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.7rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.7rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.7rem;
+    height: rem;
+  }
+  .muflisplayercard3 {
+    width: 1.7rem;
+    height:2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 1.7rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 1.7rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.7rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.7rem;
+    height: 2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.7rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 1.7rem;
+    height: 2rem;
+  }
+}
+
+
+
+
+
+
+
+@media only screen and (min-width: 1100px) and (max-width: 1111px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 2.4rem;
+    margin-left: -2.4rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 2.3rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.8rem;
+    height: 2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.8rem;
+    height: 2.2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.8rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.8rem;
+    height: rem;
+  }
+  .muflisplayercard3 {
+    width: 1.8rem;
+    height:2.2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 1.8rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.8rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 1.8rem;
+    height: 2.2rem;
+  }
+}
+
+
+
+@media only screen and (min-width: 1111px) and (max-width: 1121px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 2.4rem;
+    margin-left: -2.4rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 2.3rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.8rem;
+    height: 2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.8rem;
+    height: 2.2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.8rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.8rem;
+    height: rem;
+  }
+  .muflisplayercard3 {
+    width: 1.8rem;
+    height:2.2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 1.8rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.8rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 1.8rem;
+    height: 2.2rem;
+  }
+}
+
+
+@media only screen and (min-width: 1121px) and (max-width: 1131px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 2.4rem;
+    margin-left: -2.4rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 2.4rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.8rem;
+    height: 2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.8rem;
+    height: 2.2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.8rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.8rem;
+    height: rem;
+  }
+  .muflisplayercard3 {
+    width: 1.8rem;
+    height:2.2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 1.8rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.8rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 1.8rem;
+    height: 2.2rem;
+  }
+}
+
+@media only screen and (min-width: 1131px) and (max-width: 1143px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 2.4rem;
+    margin-left: -2.7rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 2.6rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.9rem;
+    height: 2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.9rem;
+    height: 2.2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.9rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.9rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.2rem;
+    margin-top: -2.4rem;
+    width: 1.9rem;
+    height: rem;
+  }
+  .muflisplayercard3 {
+    width: 1.9rem;
+    height:2.2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 1.9rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 1.9rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.9rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.9rem;
+    height: 2.2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.2rem;
+    margin-top: 0.1rem;
+    width: 1.9rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 1.9rem;
+    height: 2.2rem;
+  }
+}
+
+@media only screen and (min-width: 1143px) and (max-width: 1151px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 3rem;
+    margin-left: -3rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 2.8rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.9rem;
+    height: 2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.9rem;
+    height: 2.4rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.1rem;
+    margin-top: -2.4rem;
+    width: 1.9rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.9rem;
+    height: 2.4rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.1rem;
+    margin-top: -2.4rem;
+    width: 1.9rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard3 {
+    width: 1.9rem;
+    height:2.4rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 1.9rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 1.8rem;
+    height: 2.4rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.1rem;
+    margin-top: 0.1rem;
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.8rem;
+    height: 2.4rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0.1rem;
+    margin-top: 0.1rem;
+    width: 1.9rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 1.9rem;
+    height: 2.4rem;
+  }
+}
+
+@media only screen and (min-width: 1151px) and (max-width: 1165px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 3rem;
+    margin-left: -3.3rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 3.2rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.9rem;
+    height: 2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.9rem;
+    height: 2.4rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.1rem;
+    margin-top: -2.4rem;
+    width: 1.9rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.9rem;
+    height: 2.4rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.1rem;
+    margin-top: -2.4rem;
+    width: 1.9rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard3 {
+    width: 1.9rem;
+    height:2.4rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2rem;
+    height: 2.4rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.1rem;
+    margin-top: 0.1rem;
+    width: 1.9rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.9rem;
+    height: 2.4rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    margin-top: 0.1rem;
+    width: 2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2rem;
+    height: 2.4rem;
+  }
+}
+
+@media only screen and (min-width: 1165px) and (max-width: 1180px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 3rem;
+    margin-left: -3.3rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 3.2rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1rem;
+    margin-top: -2.4rem;
+    width: 1.9rem;
+    height: 2rem;
+  }
+  .muflisplayercard1 {
+    width: 1.9rem;
+    height: 2.4rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0.1rem;
+    margin-top: -2.4rem;
+    width: 1.9rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.9rem;
+    height: 2.4rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0.1rem;
+    margin-top: -2.4rem;
+    width: 1.9rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard3 {
+    width: 1.9rem;
+    height:2.4rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: 0.1rem;
+    width: 2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2rem;
+    height: 2.4rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0.1rem;
+    margin-top: 0.1rem;
+    width: 1.9rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.9rem;
+    height: 2.4rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    margin-top: 0.1rem;
+    width: 2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2rem;
+    height: 2.4rem;
+  }
+}
+@media only screen and (min-width: 1165px) and (max-width: 1190px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 3rem;
+    margin-left: -3.8rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 3.4rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    margin-top: -2.4rem;
+    width: 2rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard1 {
+    width: 2rem;
+    height: 2.6rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 1.9rem;
+    height: 2.6rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 1.9rem;
+    height:2.6rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: -0.1rem;
+    width: 2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2rem;
+    height: 2.6rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 1.9rem;
+    height: 2.6rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2rem;
+    height: 2.6rem;
+  }
+}
+
+@media only screen and (min-width: 1190px) and (max-width: 1200px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 3rem;
+    margin-left: -3.8rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 3.4rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard1 {
+    width: 2.2rem;
+    height: 2.7rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 2.2rem;
+    height:2.7rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+}
+
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1214px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 3.5rem;
+    margin-left: -3.8rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 3.6rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard1 {
+    width: 2.2rem;
+    height: 2.7rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 2.2rem;
+    height:2.7rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+}
+
+
+@media only screen and (min-width: 1214px) and (max-width: 1230px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 3.5rem;
+    margin-left: -4rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 3.7rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard1 {
+    width: 2.2rem;
+    height: 2.7rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 2.2rem;
+    height:2.7rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+}
+
+@media only screen and (min-width: 1230px) and (max-width: 1240px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 3.9rem;
+    margin-left: -4.4rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 4rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard1 {
+    width: 2.2rem;
+    height: 2.7rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 2.2rem;
+    height:2.7rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+}
+
+@media only screen and (min-width: 1240px) and (max-width: 1250px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 3.9rem;
+    margin-left: -4.4rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 4rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard1 {
+    width: 2.2rem;
+    height: 2.7rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 2.2rem;
+    height:2.7rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+}
+@media only screen and (min-width: 1250px) and (max-width: 1260px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 4.1rem;
+    margin-left: -5rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 4.4rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard1 {
+    width: 2.2rem;
+    height: 2.7rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2.2rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 2.2rem;
+    height:2.7rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2.2rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2.2rem;
+    height: 2.7rem;
+  }
+}
+
+@media only screen and (min-width: 1260px) and (max-width: 1280px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top: 4.4rem;
+    margin-left: -5.4rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 4.9rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    margin-top: -2.4rem;
+    width: 2.4rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard1 {
+    width: 2.4rem;
+    height: 2.7rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2.4rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 2.4rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    margin-top: -2.4rem;
+    width: 2.4rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 2.4rem;
+    height:2.7rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    margin-top: -0.1rem;
+    width: 2.4rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2.4rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2.4rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 2.4rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    margin-top: -0.1rem;
+    width: 2.4rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2.4rem;
+    height: 2.7rem;
+  }
+}
+
+@media only screen and (min-width: 1280px) and (max-width: 1300px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top:-0.5rem;
+    margin-left: -1rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 1.5rem;
+    margin-top: 0.2rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    /* margin-top: -2.4rem; */
+    width: 2.4rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard1 {
+    width: 2.4rem;
+    height: 2.7rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.4rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 2.4rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.4rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 2.4rem;
+    height:2.7rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    /* margin-top: -0.1rem; */
+    width: 2.4rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2.4rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.4rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 2.4rem;
+    height: 2.7rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.4rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2.4rem;
+    height: 2.7rem;
+  }
+}
+
+@media only screen and (min-width: 1300px) and (max-width: 1317px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top:-0.5rem;
+    margin-left: -1.2rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 1.9rem;
+    margin-top: 0.2rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard1 {
+    width: 2.5rem;
+    height: 2.9rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 2.5rem;
+    height:2.9rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    /* margin-top: -0.1rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+}
+@media only screen and (min-width: 1317px) and (max-width: 1330px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top:-0.5rem;
+    margin-left: -1.2rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 1.9rem;
+    margin-top: 0.2rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard1 {
+    width: 2.5rem;
+    height: 2.9rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 2.5rem;
+    height:2.9rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    /* margin-top: -0.1rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+}
+
+@media only screen and (min-width: 1330px) and (max-width: 1340px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top:-1.2rem;
+    margin-left: -1.9rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 2rem;
+    margin-top: 0.4rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard1 {
+    width: 2.5rem;
+    height: 2.9rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 2.5rem;
+    height:2.9rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    /* margin-top: -0.1rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+}
+@media only screen and (min-width: 1340px) and (max-width: 1355px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top:-1rem;
+    margin-left: -1.8rem;
+    
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 2.2rem;
+    margin-top: 0.4rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard1 {
+    width: 2.5rem;
+    height: 2.9rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 2.5rem;
+    height:2.9rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    /* margin-top: -0.1rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+}
+@media only screen and (min-width: 1355px) and (max-width: 1370px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top:-1rem;
+    margin-left: -2.1rem;
+ 
+
+  }
+
+  .teenpattimuflis2ndflex {
+    margin-left: 2.5rem;
+    margin-top: 0.4rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 2.4rem;
+  }
+  .muflisplayercard1 {
+    width: 2.5rem;
+    height: 2.9rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard2 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 2.5rem;
+    height:2.9rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    /* margin-top: -0.1rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard4 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard5 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.5rem;
+    height: 1.8rem;
+  }
+  .muflisplayercard6 {
+    width: 2.5rem;
+    height: 2.9rem;
+  }
+}
+@media only screen and (min-width: 1370px) and (max-width: 1380px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top:-0.1rem;
+    margin-left: -2.3rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 2.4rem;
+    margin-top: 0.4rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    /* margin-top: -2.4rem; */
+    width: 2.6rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard1 {
+    width: 2.6rem;
+    height: 3rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.6rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard2 {
+    width: 2.6rem;
+    height: 3rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 2.6rem;
+    height:3rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    /* margin-top: -0.1rem; */
+    width: 2.6rem;
+    height: 3rem;
+  }
+  .muflisplayercard4 {
+    width: 2.6rem;
+    height: 3rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.6rem;
+    height: 3rem;
+  }
+  .muflisplayercard5 {
+    width: 2.6rem;
+    height: 3rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.6rem;
+    height: 3rem;
+  }
+  .muflisplayercard6 {
+    width: 2.6rem;
+    height: 3rem;
+  }
+}
+
+@media only screen and (min-width: 1380px) and (max-width: 1390px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    
+    margin-top:-0.1rem;
+    margin-left: -2.3rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 2.7rem;
+    margin-top: 0.4rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    /* margin-top: -2.4rem; */
+    width: 2.6rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard1 {
+    width: 2.6rem;
+    height: 3rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.6rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard2 {
+    width: 2.6rem;
+    height: 3rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.5rem;
+    height: 2.6rem;
+  }
+  .muflisplayercard3 {
+    width: 2.6rem;
+    height:3rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    /* margin-top: -0.1rem; */
+    width: 2.6rem;
+    height: 3rem;
+  }
+  .muflisplayercard4 {
+    width: 2.6rem;
+    height: 3rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.6rem;
+    height: 3rem;
+  }
+  .muflisplayercard5 {
+    width: 2.6rem;
+    height: 3rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.6rem;
+    height: 3rem;
+  }
+  .muflisplayercard6 {
+    width: 2.6rem;
+    height: 3rem;
+  }
+}
+
+@media only screen and (min-width: 1390px) and (max-width: 1400px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top:-0.1rem;
+    margin-left: -2.3rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 2.4rem;
+    margin-top: 0.1rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    /* margin-top: -2.4rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard1 {
+    width: 2.8rem;
+    height: 3.2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard2 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard3 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    /* margin-top: -0.1rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard4 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard5 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard6 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1425px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top:-0.1rem;
+    margin-left: -2.3rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 2.7rem;
+    margin-top: 0.1rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    /* margin-top: -2.4rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard1 {
+    width: 2.8rem;
+    height: 3.2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard2 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard3 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    /* margin-top: -0.1rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard4 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard5 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard6 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+}
+
+@media only screen and (min-width: 1425px) and (max-width: 1450px){
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top:-0.1rem;
+    margin-left: -2.9rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 3.2rem;
+    margin-top: 0.1rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    /* margin-top: -2.4rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard1 {
+    width: 2.8rem;
+    height: 3.2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard2 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard3 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    /* margin-top: -0.1rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard4 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard5 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard6 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+}
+
+
+
+@media only screen and (min-width: 1450px) {
+  .teenpattimuflismainbox {
+    width: 100%;
+  }
+
+  .teenpattimuflis1stflex {
+    margin-top:-0.1rem;
+    margin-left: -3.3rem;
+  }
+  .teenpattimuflis2ndflex {
+    margin-left: 3.7rem;
+    margin-top: 0.1rem;
+  }
+
+  #table {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 0.9rem;
+  }
+  #box-btn {
+    margin-left: 0.2rem;
+  }
+  #playerId {
+    margin-left: 1rem;
+  }
+  #second {
+    margin-left: -9rem;
+    width: 100%;
+  }
+  #winner {
+    margin-top: 1rem;
+    left: 30%;
+    position: absolute;
+    top: 25%;
+  }
+  #player {
+    margin-top: 8rem;
+    margin-left: 2rem;
+  }
+  .cardBox {
+    top: 25rem;
+  }
+  .asasas {
+    width: 10%;
+  }
+  .muflisfirstBox {
+    width: 100%;
+  }
+  #player1card1 {
+    width: 1.6rem;
+    height: 1.5rem;
+  }
+  .muflisplayercardbox1 {
+    margin-left: 1.2rem;
+    /* margin-top: -2.4rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard1 {
+    width: 2.8rem;
+    height: 3.2rem;
+    /* margin-left: -1rem; */
+  }
+  .muflisplayercardbox2 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard2 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox3 {
+    margin-left: -0rem;
+    /* margin-top: -2.4rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard3 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox4 {
+    margin-left: -1.2rem;
+    /* margin-top: -0.1rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard4 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox5 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard5 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercardbox6 {
+    margin-left: -0rem;
+    /* margin-top: -0.1rem; */
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+  .muflisplayercard6 {
+    width: 2.8rem;
+    height: 3.2rem;
+  }
+}
+
+
+
+
+
+
+#winner {
+  margin-top: 1rem;
+  position: absolute;
+  left: 30%;
+}

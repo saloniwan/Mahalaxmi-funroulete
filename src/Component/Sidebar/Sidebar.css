@@ -1,0 +1,100 @@
+.sidebar {
+    width: 15; 
+    background-color: rgb(188, 188, 188);
+    
+}
+
+.sidebar ul {
+    list-style-type: none;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.sidebar li {
+    padding: -10vw; /* Adjust padding based on viewport width */
+    border-bottom: 1px solid gray;
+    text-decoration: none; /* Remove underline from links */
+    color: black; /* Set link color */
+    font-weight: 450;
+}
+
+
+
+.sidebar a {
+    display: block; /* Make the links appear as block-level elements */
+    text-decoration: none; /* Remove underline from links */
+    color: black; /* Set link color */
+}
+
+
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.blinking {
+    animation: blink 1s linear infinite;
+}
+#Bottom{
+    position: relative;
+    /* bottom:14em ; */
+    /* margin-bottom: 5rem; */
+}
+
+#Politics {
+    position: relative;
+    bottom: 1em;
+    margin-bottom: 4em;
+    background-color: rgb(39, 17, 17); /* Light gray background */
+  }
+  
+  #Politics h2 {
+    cursor: pointer; /* Change cursor to pointer when hovering over the header */
+  }
+  
+  #Politics p {
+    display: none; /* Hide the p elements initially */
+  }
+  
+  #Politics.show p {
+    display: block; /* Show the p elements when the .show class is added */
+  }
+  
+  @media screen and (min-width : 320px){
+        .sideBar_btn_NavLind{
+            display: none;
+           
+            
+         
+            
+        }
+        
+  }
+
+  @media screen and (min-width : 768px){
+    .sideBar_btn_NavLind{
+        display: block;
+        
+        
+       
+    }
+  }
+
+  /* @media screen and (max-width : 1024px){
+    .sideBar_btn_NavLind{
+        display: block;
+    }
+}
+@media screen and (max-width : 1440px){
+    .sideBar_btn_NavLind{
+        display: block;
+    }
+} */

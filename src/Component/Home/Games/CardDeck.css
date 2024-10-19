@@ -1,0 +1,99 @@
+.card-container {
+    display: flex;
+    flex-direction: column; /* Updated to make it horizontal */
+    margin-top: 20px;
+  }
+  
+  .section {
+    margin: 21px 32px 10px;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    gap: 20px; /* Adjust the value to control the space between items */
+  }
+  
+  .card,.card1 {
+    opacity: 0;
+    animation: fadeIn 0.5s ease-in-out forwards;
+  }
+
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .firstImage{
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+  }
+  
+ 
+
+/* Adjust the delay for each card in Section A */
+.card:nth-child(1) {
+    animation-delay: 1s; /* Start the animation for Section A cards */
+}
+
+.card1:nth-child(1) {
+    animation-delay: 3s; /* Start the animation for card1 after the first card in Section A is complete */
+}
+
+.card:nth-child(2) {
+    animation-delay: 5s; /* Start the animation for Section A cards after the first card is complete */
+}
+
+.card1:nth-child(2) {
+    animation-delay: 8s; /* Start the animation for card1 after the second card in Section A is complete */
+}
+
+.card:nth-child(3) {
+    animation-delay: 10s; /* Start the animation for Section A cards after the second card is complete */
+}
+
+.card1:nth-child(3) {
+    animation-delay: 12s; /* Start the animation for card1 after the third card in Section A is complete */
+}
+
+.card:nth-child(4) {
+    animation-delay: 14s; /* Start the animation for Section A cards after the third card is complete */
+}
+
+.card1:nth-child(4) {
+    animation-delay: 16s; /* Start the animation for card1 after the fourth card in Section A is complete */
+}
+
+.card:nth-child(5) {
+    animation-delay: 18s; /* Start the animation for Section A cards after the fourth card is complete */
+}
+
+.card1:nth-child(5) {
+    animation-delay: 20s; /* Start the animation for card1 after the fifth card in Section A is complete */
+}
+
+/* Adjust the delay for each card in Section B */
+.card:nth-child(6) {
+    animation-delay: 22s; /* Start the animation for Section B cards after the first card in Section A is complete */
+}
+
+.card1:nth-child(6) {
+    animation-delay: 24s; /* Start the animation for card1 after the first card in Section B is complete */
+}
+
+.card:nth-child(7) {
+    animation-delay: 26s; /* Start the animation for Section B cards after the second card in Section A is complete */
+}
+
+.card1:nth-child(7) {
+    animation-delay: 28s; /* Start the animation for card1 after the second card in Section B is complete */
+}
+
+.card:nth-child(8) {
+    animation-delay: 30s; /* Start the animation for Section B cards after the third card in Section A is complete */
+}
+
+/* Add more styles as needed */

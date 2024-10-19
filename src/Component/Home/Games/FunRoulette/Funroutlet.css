@@ -1,0 +1,94 @@
+.roulette-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    position: relative;
+  }
+  
+  .roulette-wheel {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 10px solid #000;
+    position: relative;
+    transform: rotate(0deg);
+  }
+  
+  .roulette-number {
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    background-color: #333;
+    border-radius: 50%;
+    transform-origin: 50% 150px;
+  }
+  
+  .roulette-number:nth-child(1) { transform: rotate(0deg) translate(0, -140px); }
+  .roulette-number:nth-child(2) { transform: rotate(9.73deg) translate(0, -140px); }
+  /* Add the same rotation for all 37 numbers (just increment the degrees by 9.73 for each one) */
+  
+  
+  
+  .wheel {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 5px solid black;
+    overflow: hidden;
+    margin: 0 auto;
+  }
+  
+  .outerRim {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 5px solid #333;
+  }
+  
+  .pocketsRim {
+    position: absolute;
+    width: 95%;
+    height: 95%;
+    border-radius: 50%;
+    top: 2.5%;
+    left: 2.5%;
+    background: linear-gradient(to bottom, #111, #000);
+  }
+  
+  .sect {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    border: 2px solid white;
+    clip-path: polygon(0 0, 100% 0, 100% 100%);
+    transform-origin: 100% 100%;
+  }
+  
+  .ball {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: white;
+    transform: translate(-50%, -50%);
+  }
+  .css-hv8ur9{
+    background-color:rgb(14, 91, 0)
+  }
+  
+  .css-4y1tud {
+    margin-top: -600px;
+  }
