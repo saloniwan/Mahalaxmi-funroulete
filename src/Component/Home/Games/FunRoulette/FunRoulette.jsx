@@ -1,13 +1,5 @@
 import React, { useState, useEffect } from "react";
-import {
-  ChakraProvider,
-  Box,
-  Button,
-  Text,
-  Flex,
-  Input,
-  Grid,
-} from "@chakra-ui/react";
+import { ChakraProvider, Box, Button, Text, Flex, Input, Grid, } from "@chakra-ui/react";
 import rouletteImage from "./Assest/roulette_2.png"; // Image for the spinner
 import rouletteOuterImage from "./Assest/roulette_1.jpg"; // Image outside the spinner
 import rouletteInnerImage from "./Assest/roulette_3.png"; // New image to add inside
@@ -70,7 +62,7 @@ const FunRoulette = () => {
   //   alert("Timer functionality to be implemented!");
   // };
 
-  
+
 
   useEffect(() => {
     const userID = localStorage.getItem("userId");
@@ -135,7 +127,7 @@ const FunRoulette = () => {
       spinRoulette();
     }
   }, [gameState.value]);
-  
+
   const spinRoulette = () => {
     console.log('spinRoulette Called!!');
     // if (betNumber === null) {
@@ -199,7 +191,7 @@ const FunRoulette = () => {
     setMessage(""); // Reset message when the bet is valid
   };
 
-    // Function to calculate ball position based on winning number
+  // Function to calculate ball position based on winning number
   const calculateBallPosition = (winningNumber) => {
     return (winningNumber * 9.73) % 360; // 360 degrees / 37 numbers
   };
@@ -218,7 +210,10 @@ const FunRoulette = () => {
               <Text fontSize="xl" mb={2}>
                 Score
               </Text>
-              <Button colorScheme="blue">
+              <Button colorScheme="blue"
+                backgroundColor="black"
+                color="white"
+                borderRadius="50px" /* Makes the button oval */>
                 {Math.round(user?.coins * 100) / 100
                   ? Math.round(user?.coins * 100) / 100
                   : "0"}{" "}
@@ -230,9 +225,16 @@ const FunRoulette = () => {
               <Text fontSize="xl" mb={2}>
                 Timer
               </Text>
-              <Button colorScheme="yellow">Timer {gameState.value}</Button>
+              <Button colorScheme="yellow"
+                backgroundColor="black"
+                color="white"
+                borderRadius="50px" /* Makes the button oval */>Timer {gameState.value}</Button>
             </Box>
           </Box>
+
+
+
+
 
           <Flex justifyContent="flex-end" width="100%">
             <Box textAlign="right" width="auto">
@@ -243,74 +245,27 @@ const FunRoulette = () => {
                 <Text fontSize="xl" mb={2}>
                   Winner
                 </Text>
-                <Button colorScheme="blue">Winner</Button>
+                <Button colorScheme="blue" backgroundColor="black"
+                  color="white"
+                  borderRadius="50px" /* Makes the button oval */>Winner</Button>
               </Box>
-              {/* Coins */}
-              <Flex
-                width="100%" // Ensure full width of the container is used
-                justifyContent="space-between" // Maintain spacing between spinner and coins
-                alignItems="left"
-                marginTop="2rem"
-              >
-                {/* Coin Section */}
-                <Grid
-                  templateColumns="repeat(4, 1fr)" // Create 4 columns per row
-                  gap={4} // Add some spacing between the grid items
-                  width={["100%", "60%"]}
-                  marginLeft={["1rem", "-9rem"]}
-                >
-                  {[
-                    { value: 1, imageSrc: "/Coins/1's coin.webp" },
-                    { value: 5, imageSrc: "/Coins/5's coin.webp" },
-                    { value: 10, imageSrc: "/Coins/10's coin.webp" },
-                    { value: 50, imageSrc: "/Coins/50's coin.webp" },
-                    { value: 100, imageSrc: "/Coins/100's coin.webp" },
-                    { value: 500, imageSrc: "/Coins/500's coin.webp" },
-                    { value: 1000, imageSrc: "/Coins/1000's coin.webp" },
-                    { value: 5000, imageSrc: "/Coins/5000's coin.webp" },
-                  ].map((item, index) => (
-                    <Button
-                      key={index}
-                      display="flex"
-                      justifyContent="center"
-                      alignItems="center"
-                      fontWeight="bold"
-                      borderRadius="50%"
-                      variant="unstyled"
-                      _hover={{
-                        boxShadow: "0 8px 12px rgba(255, 255, 255, 0.8)",
-                        cursor: "pointer",
-                      }}
-                      onClick={() => {
-                        // setCoins(item.value);
-                        // console.log("coins", item.value);
-                        // setSelectedCoins(index);
-                        handleBetClick(item.value)
-                      }}
-                    >
-                      <img
-                        src={item.imageSrc}
-                        alt={`${item.value}'s coin`}
-                        style={{ maxHeight: "100px" }}
-                      />
-                    </Button>
-                  ))}
-                </Grid>
-              </Flex>
-              {/* Balance Section */}
               <Box>
-                <Text fontSize="xl" mb={2}>
-                  Balance: ${betAmount}
+                <Text fontSize="xl" mb={2}
+                  /* Makes the button oval */>
+                  Balance
                 </Text>
-                <Button colorScheme="yellow"></Button>
+                <Button colorScheme="yellow"
+                  backgroundColor="black" 
+                  color="white" 
+                  borderRadius="50px">  ${betAmount}</Button>
               </Box>
             </Box>
           </Flex>
         </Flex>
 
-        <Text mb={2} color="black">
+        {/* <Text mb={2} color="black">
           Balance: ${balance}
-        </Text>
+        </Text> */}
 
         {/* Outer Image Container */}
         <Box position="relative" margin="0 auto" width="300px" height="300px">
@@ -337,9 +292,8 @@ const FunRoulette = () => {
             zIndex={2} // Ensure this is above the outer image
             style={{
               transform: isSpinning
-                ? `rotate(${
-                    360 * 3 + Math.floor(Math.random() * 37) * 9.73
-                  }deg)`
+                ? `rotate(${360 * 3 + Math.floor(Math.random() * 37) * 9.73
+                }deg)`
                 : "rotate(0deg)",
               transition: isSpinning
                 ? "transform 3s cubic-bezier(0.33, 1, 0.68, 1)"
@@ -369,15 +323,13 @@ const FunRoulette = () => {
             backgroundColor="white" // Color of the ball
             top="50%"
             left="50%"
-            transform={`translate(-50%, -50%) rotate(${
-              isSpinning
+            transform={`translate(-50%, -50%) rotate(${isSpinning
                 ? 360 * 3 + Math.floor(Math.random() * 37) * 9.73
                 : calculateBallPosition(winningNumber)
-            }deg) translate(110px) rotate(-${
-              isSpinning
+              }deg) translate(110px) rotate(-${isSpinning
                 ? 360 * 3 + Math.floor(Math.random() * 37) * 9.73
                 : calculateBallPosition(winningNumber)
-            }deg)`} // Position the ball based on winning number
+              }deg)`} // Position the ball based on winning number
             zIndex={3} // Ensure the ball is above the spinner
           />
 
@@ -396,27 +348,62 @@ const FunRoulette = () => {
           />
         </Box>
 
-        {/* Input for bet amount */}
-        {/* <Flex justify="center" align="center" mb={5}>
-          <Input
-            placeholder="Enter bet amount"
-            type="number"
-            onChange={(e) => setBetAmount(parseInt(e.target.value))}
-            maxW="150px"
-            ml={3}
-            disabled={isSpinning}
-          />
-        </Flex> */}z
+        {/* Score Text*/}
+        <Flex mt={5} justifyContent="space-between" width="100%">
+          {/* Score Section */}
 
-        {/* <Button
-          colorScheme="green"
-          onClick={spinRoulette}
-          disabled={isSpinning}
-        >
-          {isSpinning ? "Spinning..." : "Spin the Wheel!"}
-        </Button>  */}
-        
 
+          <Flex justifyContent="flex-start" width="100%">
+            {/* Coins */}
+            <Flex
+              width="200px" // Ensure full width of the container is used
+              justifyContent="space-between" // Maintain spacing between coins
+              alignItems="flex-start" // Align items to the start vertically
+              marginTop="1rem"
+            >
+              {/* Coin Section */}
+              <Grid
+                templateColumns="repeat(4, 1fr)" // Create 4 columns per row
+                gap={4} // Add some spacing between the grid items
+                width={["100%", "60%"]} // Adjust width for different screen sizes
+                marginLeft={["0rem", "0rem"]} // Move the grid closer to the left
+              >
+                {[
+                  { value: 10, imageSrc: "/Coins/10's coin.webp" },
+                  { value: 50, imageSrc: "/Coins/50's coin.webp" },
+                  { value: 100, imageSrc: "/Coins/100's coin.webp" },
+                  { value: 500, imageSrc: "/Coins/500's coin.webp" },
+                  { value: 1000, imageSrc: "/Coins/1000's coin.webp" },
+                  { value: 5000, imageSrc: "/Coins/5000's coin.webp" },
+                ].map((item, index) => (
+                  <Button
+                    key={index}
+                    display="flex"
+                    justifyContent="center"
+                    alignItems="center"
+                    fontWeight="bold"
+                    borderRadius="50%"
+                    variant="unstyled"
+                    _hover={{
+                      boxShadow: "0 8px 12px rgba(255, 255, 255, 0.8)",
+                      cursor: "pointer",
+                    }}
+                    onClick={() => {
+                      console.log("coins", item.value);
+                      handleBetClick(item.value)
+                    }}
+                  >
+                    <img
+                      src={item.imageSrc}
+                      alt={`${item.value}'s coin`}
+                      style={{ maxHeight: "100px" }}
+                    />
+                  </Button>
+                ))}
+              </Grid>
+            </Flex>
+          </Flex>
+        </Flex>
         {winningNumber !== null && (
           <Text fontSize="2xl" fontWeight="bold" mt={5}>
             Winning Number: {winningNumber}
