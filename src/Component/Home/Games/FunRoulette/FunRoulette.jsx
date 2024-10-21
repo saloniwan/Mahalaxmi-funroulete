@@ -51,7 +51,6 @@ const FunRoulette = () => {
   const [message, setMessage] = useState("");
   const [gameState, setGameState] = useState({ value: "waiting" });
   // const [timer, setTimer] = useState(10);
-  const [timer, setTimer] = useState(null); // Use null as initial state
 
   // Placeholder functions
   // const handleScore = () => {
@@ -71,6 +70,8 @@ const FunRoulette = () => {
   //   alert("Timer functionality to be implemented!");
   // };
 
+  
+
   useEffect(() => {
     const userID = localStorage.getItem("userId");
     console.log("61", userID);
@@ -84,6 +85,7 @@ const FunRoulette = () => {
     }
   }, [localStorage.getItem("userId")]);
   console.log("70", userId);
+
   useEffect(() => {
     const handleGameUpdate = (updatedGameState) => {
       console.log("gamestate", updatedGameState);
@@ -127,17 +129,24 @@ const FunRoulette = () => {
   }, []);
 
   // my code
-
+  // Effect to spin when gameState.value is 0
+  useEffect(() => {
+    if (gameState.value === 0) {
+      spinRoulette();
+    }
+  }, [gameState.value]);
+  
   const spinRoulette = () => {
-    if (betNumber === null) {
-      setMessage("Please place a bet first!");
-      return;
-    }
+    console.log('spinRoulette Called!!');
+    // if (betNumber === null) {
+    //   setMessage("Please place a bet first!");
+    //   return;
+    // }
 
-    if (betAmount > balance) {
-      setMessage("You don't have enough balance!");
-      return;
-    }
+    // if (betAmount > balance) {
+    //   setMessage("You don't have enough balance!");
+    //   return;
+    // }
 
     setIsSpinning(true);
     setMessage("");
@@ -179,209 +188,18 @@ const FunRoulette = () => {
   }
   // Add checks for red/black and range bets
 
+  const handleBetClick = (value) => {
+    // Your logic for handling the bet click goes here
+    console.log("Bet value selected:", value);
+    setBetAmount(value); // Assuming you want to set the bet amount as well
+  };
+
   const handleBetChange = (num) => {
     setBetNumber(num);
     setMessage(""); // Reset message when the bet is valid
   };
 
-  // const BettingBoard = () => {
-  // //   const numberBlocks = [
-  // //     0, 32, 15, 19, 4, 21, 2, 25, 17, 34, 6, 27, 13, 36,
-  // //     11, 30, 8, 23, 10, 5, 24, 16, 33, 1, 20, 14, 31, 9,
-  // //     22, 18, 29, 7, 28, 12, 35, 3, 26
-  // //   ];
-
-  // //   const colorMapping = {
-  // //     0: "green.500",
-  // //     32: "red.500", 15: "black", 19: "red.500", 4: "black",
-  // //     21: "red.500", 2: "black", 25: "red.500", 17: "black",
-  // //     34: "red.500", 6: "black", 27: "red.500", 13: "black",
-  // //     36: "red.500", 11: "black", 30: "red.500", 8: "black",
-  // //     23: "red.500", 10: "black", 5: "red.500", 24: "black",
-  // //     16: "red.500", 33: "black", 1: "red.500", 20: "black",
-  // //     14: "red.500", 31: "black", 9: "red.500", 22: "black",
-  // //     18: "red.500", 29: "black", 7: "red.500", 28: "black",
-  // //     12: "red.500", 35: "black", 3: "red.500", 26: "black",
-  // //   };
-
-  // const numbers = [
-  //   ['00', '3', '6', '9', '12', '15', '18', '21', '24', '27', '30', '33', '36'],
-  //   ['0', '2', '5', '8', '11', '14', '17', '20', '23', '26', '29', '32', '35'],
-  //   ['1', '4', '7', '10', '13', '16', '19', '22', '25', '28', '31', '34'],
-  // ];
-
-  //   const handlePlaceBet = () => {
-  //     if (!selectedCoin) {
-  //       setMessage("Please select a coin before placing a bet.");
-  //       return;
-  //     }
-  //     console.log(`Placing bet of ${betAmount} with coin ${selectedCoin}`);
-  //   };
-
-  //   // socket.on("disconnect", () => {
-  //   //   setIsSocketConnected(false);
-  //   //   setCountdown(null); // Reset countdown when disconnected
-  //   // });
-
-  // // Function to handle spin
-  // const startSpin = () => {
-  //   if (isSpin) return; // Prevent multiple spins
-  //   setTriggerSpin(true); // Trigger the wheel spin
-  //   setIsSpin(true);
-  // };
-
-  //   return (
-  //     <Box borderWidth="1px" borderRadius="lg" p={4} mt={5} backgroundColor="white">
-  //       <Grid templateColumns="repeat(3, 1fr)" gap={2}>
-  //         {numberBlocks.map((num) => (
-  //           <Box key={num} borderWidth="1px" borderRadius="md" overflow="hidden" textAlign="center">
-  //             <Button
-  //               width="full"
-  //               height="full"
-  //               borderRadius="none"
-  //               backgroundColor={colorMapping[num]}
-  //               color="white"
-  //               _hover={{ bg: "yellow.300", color: "black" }} // Hover effect
-  //               _active={{ bg: "yellow.400" }} // Active effect
-  //               onClick={() => handleBetChange(num)}
-  //               fontWeight="bold"
-  //               fontSize="lg"
-  //             >
-  //               {num}
-  //             </Button>
-  //           </Box>
-  //         ))}
-  //       </Grid>
-
-  //       {/* Additional Betting Options */}
-  //       <Grid templateColumns="repeat(3, 1fr)" mt={5} gap={2}>
-  //         <Box>
-  //           <Button
-  //             width="full"
-  //             borderRadius="md"
-  //             backgroundColor="green.500"
-  //             color="white"
-  //             _hover={{ bg: "yellow.300", color: "black" }}
-  //             _active={{ bg: "yellow.400" }}
-  //             onClick={() => handleBetChange('even')}
-  //           >
-  //             Even
-  //           </Button>
-  //         </Box>
-  //         <Box>
-  //           <Button
-  //             width="full"
-  //             borderRadius="md"
-  //             backgroundColor="green.500"
-  //             color="white"
-  //             _hover={{ bg: "yellow.300", color: "black" }}
-  //             _active={{ bg: "yellow.400" }}
-  //             onClick={() => handleBetChange('odd')}
-  //           >
-  //             Odd
-  //           </Button>
-  //         </Box>
-  //         <Box>
-  //           <Button
-  //             width="full"
-  //             borderRadius="md"
-  //             backgroundColor="green.500"
-  //             color="white"
-  //             _hover={{ bg: "yellow.300", color: "black" }}
-  //             _active={{ bg: "yellow.400" }}
-  //             onClick={() => handleBetChange('red')}
-  //           >
-  //             Red
-  //           </Button>
-  //         </Box>
-  //         <Box>
-  //           <Button
-  //             width="full"
-  //             borderRadius="md"
-  //             backgroundColor="green.500"
-  //             color="white"
-  //             _hover={{ bg: "yellow.300", color: "black" }}
-  //             _active={{ bg: "yellow.400" }}
-  //             onClick={() => handleBetChange('black')}
-  //           >
-  //             Black
-  //           </Button>
-  //         </Box>
-  //         <Box>
-  //           <Button
-  //             width="full"
-  //             borderRadius="md"
-  //             backgroundColor="green.500"
-  //             color="white"
-  //             _hover={{ bg: "yellow.300", color: "black" }}
-  //             _active={{ bg: "yellow.400" }}
-  //             onClick={() => handleBetChange('1-18')}
-  //           >
-  //             1-18
-  //           </Button>
-  //         </Box>
-  //         <Box>
-  //           <Button
-  //             width="full"
-  //             borderRadius="md"
-  //             backgroundColor="green.500"
-  //             color="white"
-  //             _hover={{ bg: "yellow.300", color: "black" }}
-  //             _active={{ bg: "yellow.400" }}
-  //             onClick={() => handleBetChange('19-36')}
-  //           >
-  //             19-36
-  //           </Button>
-  //         </Box>
-  //       </Grid>
-
-  //       {/* Column Bets */}
-  //       <Grid templateColumns="repeat(3, 1fr)" mt={5} gap={2}>
-  //         <Box>
-  //           <Button
-  //             width="full"
-  //             borderRadius="md"
-  //             backgroundColor="blue.500"
-  //             color="white"
-  //             _hover={{ bg: "yellow.300", color: "black" }}
-  //             _active={{ bg: "yellow.400" }}
-  //             onClick={() => handleBetChange('column1')}
-  //           >
-  //             1st Column
-  //           </Button>
-  //         </Box>
-  //         <Box>
-  //           <Button
-  //             width="full"
-  //             borderRadius="md"
-  //             backgroundColor="blue.500"
-  //             color="white"
-  //             _hover={{ bg: "yellow.300", color: "black" }}
-  //             _active={{ bg: "yellow.400" }}
-  //             onClick={() => handleBetChange('column2')}
-  //           >
-  //             2nd Column
-  //           </Button>
-  //         </Box>
-  //         <Box>
-  //           <Button
-  //             width="full"
-  //             borderRadius="md"
-  //             backgroundColor="blue.500"
-  //             color="white"
-  //             _hover={{ bg: "yellow.300", color: "black" }}
-  //             _active={{ bg: "yellow.400" }}
-  //             onClick={() => handleBetChange('column3')}
-  //           >
-  //             3rd Column
-  //           </Button>
-  //         </Box>
-  //       </Grid>
-  //     </Box>
-  //   );
-  // };
-
-  // Function to calculate ball position based on winning number
+    // Function to calculate ball position based on winning number
   const calculateBallPosition = (winningNumber) => {
     return (winningNumber * 9.73) % 360; // 360 degrees / 37 numbers
   };
@@ -464,9 +282,10 @@ const FunRoulette = () => {
                         cursor: "pointer",
                       }}
                       onClick={() => {
-                        setCoins(item.value);
-                        console.log("coins", item.value);
-                        setSelectedCoins(index);
+                        // setCoins(item.value);
+                        // console.log("coins", item.value);
+                        // setSelectedCoins(index);
+                        handleBetClick(item.value)
                       }}
                     >
                       <img
@@ -481,7 +300,7 @@ const FunRoulette = () => {
               {/* Balance Section */}
               <Box>
                 <Text fontSize="xl" mb={2}>
-                  Balance
+                  Balance: ${betAmount}
                 </Text>
                 <Button colorScheme="yellow"></Button>
               </Box>
@@ -578,7 +397,7 @@ const FunRoulette = () => {
         </Box>
 
         {/* Input for bet amount */}
-        <Flex justify="center" align="center" mb={5}>
+        {/* <Flex justify="center" align="center" mb={5}>
           <Input
             placeholder="Enter bet amount"
             type="number"
@@ -587,15 +406,16 @@ const FunRoulette = () => {
             ml={3}
             disabled={isSpinning}
           />
-        </Flex>
+        </Flex> */}z
 
-        <Button
+        {/* <Button
           colorScheme="green"
           onClick={spinRoulette}
           disabled={isSpinning}
         >
           {isSpinning ? "Spinning..." : "Spin the Wheel!"}
-        </Button>
+        </Button>  */}
+        
 
         {winningNumber !== null && (
           <Text fontSize="2xl" fontWeight="bold" mt={5}>
